@@ -1,6 +1,5 @@
 # Introdução do openrc em português
-## Olá usuarios,. Tudo bem contigo?
-## Bom... veja os seguintes comandos:
+## Basico do Basico:
 
 #### rc-update 
 ("**add**"adicionar"**del**"remover) ("**apache2**"serviços) ("**boot**"inicialização)
