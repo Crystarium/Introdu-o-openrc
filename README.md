@@ -8,4 +8,4 @@
 #### rc-service 
 ("**apache2**"serviço) ("**start**"iniciar,"**stop**"parar,"**restart**"reinicializar)
 
-##### User **rc-<escolha um> --help** e saiba mais #####
+##### User **rc-{escolha um} --help** e saiba mais #####
