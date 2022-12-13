@@ -1,4 +1,4 @@
-<bolt>#Introdução do openrc em português</bolt></br>
+<br>#Introdução do openrc em português</br>
 #Olá usuarios,. Tudo bem contigo?
 #Bom... veja os seguintes comandos:
 ```
